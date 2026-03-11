@@ -10,6 +10,11 @@ const links = [
     url: 'https://upload.wikimedia.org/wikipedia/commons/9/97/Pokemon_Type_Chart.svg',
   },
   {
+    name: 'Niveaux des minerais',
+    desc: 'Tableau des meilleurs niveaux Y pour miner chaque minerai dans Minecraft',
+    url: 'https://www.reddit.com/r/Minecraft/comments/zc0w46/i_made_a_simple_chart_to_know_which_are_the_best/',
+  },
+  {
     name: 'Biome Finder',
     desc: 'Localiser les biomes de notre monde Minecraft (seed incluse)',
     url: 'https://www.chunkbase.com/apps/biome-finder#seed=-6762404268818883586&platform=java_1_21_5&dimension=overworld',

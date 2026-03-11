@@ -15,6 +15,11 @@ const links = [
     url: 'https://www.chunkbase.com/apps/biome-finder#seed=-6762404268818883586&platform=java_1_21_5&dimension=overworld',
   },
   {
+    name: 'Wiki Cobblemon',
+    desc: 'Wiki officiel du mod Cobblemon : Pokémon, mécaniques, objets et plus',
+    url: 'https://wiki.cobblemon.com/index.php/Main_Page',
+  },
+  {
     name: 'Drops Cobblemon',
     desc: 'Liste des objets droppés par chaque Pokémon dans Cobblemon',
     url: 'https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Drops',

@@ -5,7 +5,7 @@ import LinksPage from '@/components/LinksPage.vue'
 </script>
 
 <template>
-  <Tabs default-value="map" class="min-h-screen flex flex-col">
+  <Tabs default-value="map" class="h-screen flex flex-col overflow-hidden">
     <header class="flex items-center justify-between px-6 py-3 border-b border-border">
       <span class="font-semibold text-lg">PokéPilon</span>
       <TabsList>
@@ -14,7 +14,7 @@ import LinksPage from '@/components/LinksPage.vue'
       </TabsList>
       <span class="text-sm text-muted-foreground">pokepilon.location-minecraft.fr</span>
     </header>
-    <main class="flex-1">
+    <main class="flex-1 flex flex-col">
       <TabsContent value="map"><MapPage /></TabsContent>
       <TabsContent value="links"><LinksPage /></TabsContent>
     </main>

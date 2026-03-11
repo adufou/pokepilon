@@ -1,11 +1,24 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs'
+import MapPage from '@/components/MapPage.vue'
+import LinksPage from '@/components/LinksPage.vue'
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <Tabs default-value="map" class="min-h-screen flex flex-col">
+    <header class="flex items-center justify-between px-6 py-3 border-b border-border">
+      <span class="font-semibold text-lg">PokéPilon</span>
+      <TabsList>
+        <TabsTrigger value="map">Map</TabsTrigger>
+        <TabsTrigger value="links">Links</TabsTrigger>
+      </TabsList>
+      <span class="text-sm text-muted-foreground">pokepilon.location-minecraft.fr</span>
+    </header>
+    <main class="flex-1">
+      <TabsContent value="map"><MapPage /></TabsContent>
+      <TabsContent value="links"><LinksPage /></TabsContent>
+    </main>
+  </Tabs>
 </template>
 
 <style scoped></style>

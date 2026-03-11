@@ -10,7 +10,7 @@ import LinksPage from '@/components/LinksPage.vue'
       <span class="font-semibold text-lg">PokéPilon</span>
       <TabsList>
         <TabsTrigger value="map">Map</TabsTrigger>
-        <TabsTrigger value="links">Links</TabsTrigger>
+        <TabsTrigger value="links">Liens Utiles</TabsTrigger>
       </TabsList>
       <span class="text-sm text-muted-foreground">pokepilon.location-minecraft.fr</span>
     </header>

@@ -65,7 +65,7 @@ const links = [
     url: 'https://www.cobbledex.info/evolution-guide',
   },
   {
-    name: 'Arènes Kanto',
+    name: 'Maîtres d\'Arènes',
     desc: 'Guide des champions d\'arène de Kanto sur Cobbleverse',
     url: 'https://www.lumyverse.com/cobbleverse/kanto-gym-leaders/',
   },

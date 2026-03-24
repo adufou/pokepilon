@@ -35,6 +35,11 @@ const links = [
     url: 'https://drive.google.com/drive/folders/1FaKtUQQ5gikqIfcy_k-xT8lejOtyJQfK',
   },
   {
+    name: 'Assaisonnement Pokésnack',
+    desc: 'Liste des assaisonnements pour Pokésnack et leurs effets sur les spawns',
+    url: 'https://wiki.cobblemon.com/index.php/Seasoning#Bait_Seasoning',
+  },
+  {
     name: 'Équivalences spawn/biome Cobblemon',
     desc: 'Conditions de spawn des Pokémon par biome dans Cobblemon (wiki officiel)',
     url: 'https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Spawning/Spawn_Definitions',

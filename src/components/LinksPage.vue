@@ -54,6 +54,11 @@ const links = [
     desc: 'Guide des champions d\'arène de Kanto sur Cobbleverse',
     url: 'https://www.lumyverse.com/cobbleverse/kanto-gym-leaders/',
   },
+  {
+    name: 'Légendaires & Mythiques',
+    desc: 'Guide pour capturer tous les Pokémon légendaires et mythiques sur Cobbleverse',
+    url: 'https://www.lumyverse.com/cobbleverse/how-to-catch-all-legendary-mythical-pokemon/',
+  },
 ]
 </script>
 

@@ -35,6 +35,11 @@ const links = [
     url: 'https://drive.google.com/drive/folders/1FaKtUQQ5gikqIfcy_k-xT8lejOtyJQfK',
   },
   {
+    name: 'Chunk Loader - Tutoriel',
+    desc: 'Tutoriel pour utiliser un Chunk Loader (charge les chunks 3x3 autour de lui). Utiliser F3+G pour voir les chunks.',
+    url: 'https://www.youtube.com/watch?v=kTH8uCYtY3M',
+  },
+  {
     name: 'Groupes d\'œuf Pokémon',
     desc: 'Liste des Pokémon par groupe d\'œuf (Poképédia)',
     url: 'https://www.pokepedia.fr/Liste_des_Pok%C3%A9mon_par_groupe_d\'%C5%92uf',

@@ -35,6 +35,11 @@ const links = [
     url: 'https://drive.google.com/drive/folders/1FaKtUQQ5gikqIfcy_k-xT8lejOtyJQfK',
   },
   {
+    name: 'Groupes d\'œuf Pokémon',
+    desc: 'Liste des Pokémon par groupe d\'œuf (Poképédia)',
+    url: 'https://www.pokepedia.fr/Liste_des_Pok%C3%A9mon_par_groupe_d\'%C5%92uf',
+  },
+  {
     name: 'Assaisonnement Pokésnack',
     desc: 'Liste des assaisonnements pour Pokésnack et leurs effets sur les spawns',
     url: 'https://wiki.cobblemon.com/index.php/Seasoning#Bait_Seasoning',

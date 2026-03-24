@@ -35,6 +35,11 @@ const links = [
     url: 'https://drive.google.com/drive/folders/1FaKtUQQ5gikqIfcy_k-xT8lejOtyJQfK',
   },
   {
+    name: 'Équivalences spawn/biome Cobblemon',
+    desc: 'Conditions de spawn des Pokémon par biome dans Cobblemon (wiki officiel)',
+    url: 'https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Spawning/Spawn_Definitions',
+  },
+  {
     name: 'Spawns Cobblemon',
     desc: 'Spreadsheet des zones et conditions de spawn des Pokémon (1.7.3)',
     url: 'https://docs.google.com/spreadsheets/d/1DJT7Hd0ldgVUjJbN0kYQFAyNBP6JGG_Clkipax98x-g/edit?gid=0#gid=0',

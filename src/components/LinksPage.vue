@@ -25,19 +25,24 @@ const links = [
     url: 'https://wiki.cobblemon.com/index.php/Main_Page',
   },
   {
-    name: 'Drops Cobblemon',
-    desc: 'Liste des objets droppés par chaque Pokémon dans Cobblemon',
-    url: 'https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Drops',
-  },
-  {
     name: 'Pokédex Cobblemon',
     desc: 'Pokédex complet avec stats, capacités et infos pour Cobblemon',
     url: 'https://cobblemon.tools/pokedex/',
   },
   {
+    name: 'Drive Cobblemon 1.7.3',
+    desc: 'Dossier Google Drive pour Cobblemon 1.7.3',
+    url: 'https://drive.google.com/drive/folders/1FaKtUQQ5gikqIfcy_k-xT8lejOtyJQfK',
+  },
+  {
     name: 'Spawns Cobblemon',
-    desc: 'Spreadsheet des zones et conditions de spawn des Pokémon',
-    url: 'https://docs.google.com/spreadsheets/d/1dldBZuUmQXUWbY2YOgNAIryjwXJqzHaNDly-a8Oml04/edit?pli=1&gid=0#gid=0',
+    desc: 'Spreadsheet des zones et conditions de spawn des Pokémon (1.7.3)',
+    url: 'https://docs.google.com/spreadsheets/d/1DJT7Hd0ldgVUjJbN0kYQFAyNBP6JGG_Clkipax98x-g/edit?gid=0#gid=0',
+  },
+  {
+    name: 'Drops Cobblemon',
+    desc: 'Liste des objets droppés par chaque Pokémon dans Cobblemon (1.7.3)',
+    url: 'https://docs.google.com/spreadsheets/d/1EG8-VxLukiGWonM7e9J_DH0ZAVdkWo3W64bP2jT6koo/edit?gid=0#gid=0',
   },
   {
     name: 'Guide des évolutions',
